@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
