@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
