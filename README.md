@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
@@ -86,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
