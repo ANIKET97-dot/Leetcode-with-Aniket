@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0001-two-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0206-reverse-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
 |  |
 | ------- |
