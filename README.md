@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0707-design-linked-list) |
 ## Counting
 |  |
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
