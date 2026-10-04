@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
