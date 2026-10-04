@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Simulation
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
