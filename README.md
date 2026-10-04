@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0709-to-lower-case) |
