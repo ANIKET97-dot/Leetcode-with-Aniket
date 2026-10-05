@@ -17,15 +17,17 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
+        ListNode* temp = nullptr;
         while (fast != nullptr && fast-> next != nullptr){
+            temp = slow;
             slow = slow-> next;
             fast = fast-> next-> next;
         }
 
-        ListNode* temp = head;
-        while(temp-> next != slow) {
-            temp = temp->next;
-        }
+        // ListNode* temp = head;
+        // while(temp-> next != slow) {
+        //     temp = temp->next;
+        // }
         temp->next = slow->next;
         delete slow;
         return head;
