@@ -20,11 +20,9 @@ public:
         }
         sort(v.begin(), v.end());
         temp = head;
-        int i = 0;
-
-        while(temp != nullptr) {
+        
+        for (int i = 0; temp != nullptr; i++) {
             temp->val = v[i];
-            i++;
             temp = temp->next;
         }
         return head;
