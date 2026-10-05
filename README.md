@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
 |  |
