@@ -12,25 +12,37 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
 
-        if (head == nullptr || head->next == nullptr) {
+        if(head == nullptr)
             return head;
+
+        // Dummy nodes for two separate lists
+        ListNode* oddHead = new ListNode(0);
+        ListNode* evenHead = new ListNode(0);
+
+        ListNode* odd = oddHead;
+        ListNode* even = evenHead;
+
+        ListNode* temp = head;
+        int index = 1;
+
+        while(temp != nullptr) {
+
+            if(index % 2 == 1) {
+                odd->next = new ListNode(temp->val);
+                odd = odd->next;
+            }
+            else {
+                even->next = new ListNode(temp->val);
+                even = even->next;
+            }
+
+            temp = temp->next;
+            index++;
         }
 
-        ListNode* odd = head;
-        ListNode* even = head->next;
-        ListNode* evenHead = even;
+        // Connect odd list with even list
+        odd->next = evenHead->next;
 
-        while (even != nullptr && even->next != nullptr) {
-
-            odd->next = even->next;
-            odd = odd->next;
-
-            even->next = odd->next;
-            even = even->next;
-        }
-
-        odd->next = evenHead;
-
-        return head;
+        return oddHead->next;
     }
 };
