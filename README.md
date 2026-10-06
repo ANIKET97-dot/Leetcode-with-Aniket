@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0876-middle-of-the-linked-list) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
 ## Merge Sort
 |  |
 | ------- |
