@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 ## Counting
 |  |
 | ------- |
@@ -211,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
