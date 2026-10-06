@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1480-running-sum-of-1d-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
