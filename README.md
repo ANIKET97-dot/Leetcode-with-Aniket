@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0520-detect-capital) |
@@ -247,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1480-running-sum-of-1d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
