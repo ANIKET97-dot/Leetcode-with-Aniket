@@ -8,27 +8,34 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(head == nullptr || left == right) {
-            return head;
+        vector<int> arr;
+        ListNode* temp = head;
+        while (temp != nullptr){
+            arr.push_back(temp-> val);
+            temp = temp-> next;
         }
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-        ListNode* prev = dummy;
 
-        for(int i = 1; i < left; i++) {
-            prev = prev->next;
+        int i = left - 1;
+        int j = right - 1;
+
+        while (i < j){
+            swap(arr[i], arr[j]);
+            i++;
+            j--;
         }
-        ListNode* curr = prev->next;
-        for(int i = 0; i < right - left; i++) {
-            ListNode* temp = curr->next;
-            curr->next = temp->next;
-            temp->next = prev->next;
-            prev->next = temp;
+
+        temp = head;
+        int k = 0;
+
+        while (temp != nullptr){
+            temp-> val = arr[k];
+            k++;
+            temp = temp-> next;
         }
-        return dummy->next;
+
+        return head;
     }
 };
