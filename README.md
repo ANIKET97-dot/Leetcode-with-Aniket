@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0048-rotate-image) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
