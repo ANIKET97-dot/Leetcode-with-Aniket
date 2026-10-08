@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0896-monotonic-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
