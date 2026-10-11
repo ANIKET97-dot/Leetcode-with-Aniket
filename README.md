@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2390-removing-stars-from-a-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
