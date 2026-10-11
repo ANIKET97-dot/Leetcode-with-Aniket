@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
