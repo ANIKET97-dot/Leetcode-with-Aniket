@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1480-running-sum-of-1d-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Design
 |  |
 | ------- |
