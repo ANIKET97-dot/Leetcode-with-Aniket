@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2553-separate-the-digits-in-an-array) |
 ## Recursion
 |  |
 | ------- |
