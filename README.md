@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2396-strictly-palindromic-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
