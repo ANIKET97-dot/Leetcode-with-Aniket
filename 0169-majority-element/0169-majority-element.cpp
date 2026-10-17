@@ -2,19 +2,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int candidate = 0;
+        int major = 0;
         int cnt = 0;
 
         for (int x : nums) {
             if (cnt == 0) {
-                candidate = x;
+                major = x;
             }
-            if (x == candidate) {
+            if (x == major) {
                 cnt++;
             } else {
                 cnt--;
             }
         }
-        return candidate;
+        return major;
     }
 };
