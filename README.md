@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
 ## Stack
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0223-rectangle-area) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
