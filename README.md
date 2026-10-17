@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Queue
@@ -376,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
