@@ -13,16 +13,14 @@ public:
             }
         }
         sort(even.begin(), even.end());
-        sort(odd.begin(), odd.end(), greater<int>());
-
+        sort(odd.begin(), odd.end(), greater<int> ());
         int eveni = 0, oddj = 0;
-        int i = 0;
+        int i =0;
 
         while (eveni < even.size() || oddj < odd.size()){
             if (eveni < even.size()){
                 nums[i++] = even[eveni++];
             }
-
             if (oddj < odd.size()){
                 nums[i++] = odd[oddj++];
             }
