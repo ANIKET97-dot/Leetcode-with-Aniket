@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
+| [3151-special-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3727-maximum-alternating-sum-of-squares) |
