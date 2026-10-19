@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2553-separate-the-digits-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
 | ------- |
