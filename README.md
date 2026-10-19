@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
 ## Queue
 |  |
 | ------- |
