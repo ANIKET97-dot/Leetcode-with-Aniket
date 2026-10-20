@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2652-sum-multiples) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3886-sum-of-sortable-integers) |
 ## Bucket Sort
 |  |
 | ------- |
