@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0088-merge-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
