@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0709-to-lower-case) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
