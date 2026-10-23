@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2089-find-target-indices-after-sorting-array) |
