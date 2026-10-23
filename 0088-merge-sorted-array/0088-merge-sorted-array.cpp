@@ -1,12 +1,9 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-
         vector<int> merged(m + n);
-
         int i = 0, j = 0, k = 0;
-
-        while(i < m && j < n){
+        while (i < m && j < n){
             if (nums1[i] < nums2[j]){
                 merged[k++] = nums1[i++];
             }
@@ -17,12 +14,14 @@ public:
         while (i < m){
             merged[k++] = nums1[i++];
         }
+
         while (j < n){
             merged[k++] = nums2[j++];
         }
 
-        for (int x = 0; x < m + n; x++){
+        for (int x = 0; x < n + m; x++){
             nums1[x] = merged[x];
         }
+
     }
 };
