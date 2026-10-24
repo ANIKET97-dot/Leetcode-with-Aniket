@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0240-search-a-2d-matrix-ii) |
 ## Geometry
 |  |
 | ------- |
