@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
