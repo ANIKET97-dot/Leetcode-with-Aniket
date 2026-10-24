@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0905-sort-array-by-parity) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0709-to-lower-case) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
