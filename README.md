@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
@@ -480,12 +481,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
