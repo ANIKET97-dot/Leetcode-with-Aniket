@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1295-find-numbers-with-even-number-of-digits) |
