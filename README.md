@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0905-sort-array-by-parity) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0145-binary-tree-postorder-traversal) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
