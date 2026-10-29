@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2396-strictly-palindromic-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2652-sum-multiples) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3875-construct-uniform-parity-array-i) |
