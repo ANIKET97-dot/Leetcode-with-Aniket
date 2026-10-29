@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2951-find-the-peaks](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2951-find-the-peaks) |
+| [2974-minimum-number-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2974-minimum-number-game) |
 | [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
+| [2974-minimum-number-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3886-sum-of-sortable-integers) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2974-minimum-number-game](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
 | ------- |
