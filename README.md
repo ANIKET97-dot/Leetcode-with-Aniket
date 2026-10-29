@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2418-sort-the-people) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
