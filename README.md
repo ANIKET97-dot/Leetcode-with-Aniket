@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2460-apply-operations-to-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/3046-split-the-array) |
 ## Queue
 |  |
