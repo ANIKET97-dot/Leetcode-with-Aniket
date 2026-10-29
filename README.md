@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2089-find-target-indices-after-sorting-array) |
