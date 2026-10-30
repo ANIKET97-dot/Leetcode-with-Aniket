@@ -37,12 +37,12 @@ public:
                 return temp;
             }
             else{
-                TreeNode* temp = root-> right;
-                while (temp-> left != nullptr){
-                    temp = temp-> left;
+                TreeNode* temp = root-> left;
+                while (temp-> right != nullptr){
+                    temp = temp-> right;
                 }
                 root-> val = temp-> val;
-                root-> right = deleteNode(root-> right, temp-> val);
+                root-> left = deleteNode(root-> left, temp-> val);
             }
         }
         return root;
