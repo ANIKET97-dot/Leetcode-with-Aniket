@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1346-check-if-n-and-its-double-exist) |
