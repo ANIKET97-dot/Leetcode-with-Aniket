@@ -5,7 +5,7 @@ public:
         sort(nums.begin(), nums.end());
 
         for (int i = 0; i < n; i+= 3){
-            if (i + 1 >= n || nums[i] != nums[i + 1]){
+            if (i + 1 >= n || nums[i] != nums[i + 1]){   // i + 1 >= n helps preventing heap buffer overflow. It is must
                 return nums[i];
             }
         }
