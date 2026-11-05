@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0404-sum-of-left-leaves) |
+| [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2236-root-equals-sum-of-children) |
 ## Ternary Search
 |  |
