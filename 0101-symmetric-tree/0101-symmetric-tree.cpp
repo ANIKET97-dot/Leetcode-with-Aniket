@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* left, TreeNode* right){
+    bool check(TreeNode* left, TreeNode* right){
         if (left == nullptr && right == nullptr){
             return true;
         }
@@ -22,13 +22,9 @@ public:
             return false;
         }
 
-        return solve(left-> left, right-> right) && solve(left-> right, right-> left);
+        return check(left-> left, right-> right) && check(left-> right, right-> left);
     }
     bool isSymmetric(TreeNode* root) {
-        if (root == nullptr){
-            return true;
-        }
-        return solve(root-> left, root-> right);
-        
+        return check(root-> left, root-> right);
     }
 };
