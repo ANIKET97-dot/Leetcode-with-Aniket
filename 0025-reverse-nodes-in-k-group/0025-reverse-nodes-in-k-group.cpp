@@ -14,6 +14,7 @@ public:
         if (head == nullptr){
             return head;
         }
+
         ListNode* temp = head;
 
         for (int i = 0; i < k; i++){
@@ -23,13 +24,13 @@ public:
             temp = temp-> next;
         }
 
+        int cnt = 0;
+        
         ListNode* prev = nullptr;
         ListNode* curr = head;
         ListNode* next = nullptr;
 
-        int cnt = 0;
-
-        while (curr!= nullptr && cnt < k){
+        while (curr != nullptr && cnt < k){
             next = curr-> next;
             curr-> next = prev;
 
@@ -38,7 +39,10 @@ public:
 
             cnt++;
         }
+
         head-> next = reverseKGroup(next, k);
         return prev;
+
+
     }
 };
