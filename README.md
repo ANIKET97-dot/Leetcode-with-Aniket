@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/2236-root-equals-sum-of-children) |
 ## Ternary Search
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
