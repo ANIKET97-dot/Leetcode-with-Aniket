@@ -15,7 +15,6 @@ public:
         if (root == nullptr){
             return nullptr;
         }
-
         if (root-> val == val){
             return root;
         }
