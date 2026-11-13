@@ -14,15 +14,12 @@ public:
         if (head == nullptr || head-> next == nullptr){
             return head;
         }
-        ListNode* curr = head;
-        ListNode* prev = nullptr;
-        ListNode* next = nullptr;
-
+        ListNode* first = head;
         ListNode* second = head-> next;
-        head-> next = swapPairs(second-> next);
 
-        second-> next = head;
+        first-> next = swapPairs(second-> next);
+        second-> next = first;
+
         return second;
-        
     }
 };
