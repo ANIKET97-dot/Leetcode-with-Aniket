@@ -25,6 +25,9 @@ public:
         return check(left-> left, right-> right) && check(left-> right, right-> left);
     }
     bool isSymmetric(TreeNode* root) {
+        if (root == nullptr){
+            return true;
+        }
         return check(root-> left, root-> right);
     }
 };
