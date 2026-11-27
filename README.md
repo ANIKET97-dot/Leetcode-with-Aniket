@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -648,4 +650,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ANIKET97-dot/Leetcode-with-Aniket/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
